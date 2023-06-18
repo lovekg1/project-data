@@ -1,12 +1,70 @@
 {
     "news": [
         {
-            "id": 1,
-            "title": "62 người tấn công trụ sở xã ở Đăk Lăk bị bắt",
-            "description": "Cảnh sát đã bắt tổng cộng 62 nghi phạm tham gia tấn công trụ sở UBND xã Ea Tiêu và Ea Ktur, huyện Cư Kuin, rồi sát hại 9 người.",
-            "date": "Thứ bảy, 17/6/2023, 17:23 (GMT+7)",
-            "fields": "Thời sự",
-            "link": "https://vnexpress.net/62-nguoi-tan-cong-tru-so-xa-o-dak-lak-bi-bat-4618739.html"
+            "title": "Nổi bật tuần qua: Nữ tài xế chạy xe đầy khó hiểu, gây họa cho chính mình",
+            "description": "(Dân trí) - Đoạn clip ghi lại pha xử lý đầy khó hiểu của nữ tài xế, khiến chiếc xe bị mắc kẹt trên dải phân cách, là một trong những tình huống giao thông nổi bật tuần qua.",
+            "date": "Chủ nhật, 18/06/2023 - 14:28",
+            "category": "Xã hội",
+            "link": "https://dantri.com.vn/o-to-xe-may/noi-bat-tuan-qua-nu-tai-xe-chay-xe-day-kho-hieu-gay-hoa-cho-chinh-minh-20230618142758350.htm?utm_source=coccoc&utm_medium=ccnews",
+            "sourceName": "DANTRI",
+            "image": "https://cdn.coccoc.com/news_feed/20230618/7096044660433898955.jpg",
+            "sourceIcon": "https://dantri.com.vn/favicon.ico",
+            "id": 1
+        },
+        {
+            "title": "2 xe khách tông nhau, 2 người chết, 9 người bị thương",
+            "description": "2 xe khách chạy ngược chiều trên quốc lộ 1 tông nhau, 1 hành khách chết tại chỗ, 1 người chết tại bệnh viện, 9 người bị thương.",
+            "date": "Chủ nhật, 18/06/2023 - 08:25",
+            "category": "Pháp luật",
+            "link": "https://tuoitre.vn/2-xe-khach-tong-nhau-2-nguoi-chet-9-nguoi-bi-thuong-2023061808145139.htm?utm_source=coccoc&utm_medium=ccnews",
+            "sourceName": "TUOITRE",
+            "image": "https://cdn.coccoc.com/news_feed/20230618/16526739985607839776.jpg",
+            "sourceIcon": "https://statictuoitre.mediacdn.vn/web_images/favicon.ico",
+            "id": 2
+        },
+        {
+            "title": "Giả danh công an gọi điện lừa đảo, gặp đúng công an thật",
+            "description": "Trong lúc thực hiện cuộc gọi video để lừa bị hại, đối tượng tự xưng là Lê Hải Sơn bất ngờ phát hiện người đang nói chuyện với mình là một cán bộ công an.",
+            "date": "Chủ nhật, 18/06/2023 - 16:00",
+            "category": "Pháp luật",
+            "link": "https://www.24h.com.vn/an-ninh-hinh-su/gia-danh-cong-an-goi-dien-lua-dao-gap-dung-cong-an-that-c51a1476489.html?utm_source=coccoc&utm_medium=ccnews",
+            "sourceName": "24H",
+            "image": "https://cdn.coccoc.com/news_feed/20230618/923690934079302086.jpg",
+            "sourceIcon": "https://cdn.24h.com.vn/upload/icon/icon_24h.ico",
+            "id": 3
+        },
+        {
+            "title": "Độ tuổi thích hợp để mổ cận mà không phải ai cũng biết",
+            "description": "Mổ mắt xong ai cũng sự nghiệp sang trang mới, đẹp hơn, thành công hơn",
+            "date": "Từ 01/06/2023 đến 30/06/2023",
+            "category": "Tài trợ",
+            "link": "https://hcm.matvietnga.com/uu-dai-xoa-can/?utm_source=coccoc_zen_new&utm_medium=CPC&utm_campaign=NativeAds_Matvietngathang6_CCSP&utm_term=*&utm_content=43648325&md=_05be50vdaa*Cr3MhoOtvxABYZwMXtuO6w-pRmkMtMDJn3xwTnX7mmc7E0GaMWVsvJVAy5SJ2fsOW5kW0R7W9lr96FuUYEA9dVpRjgNvw4gWXYIbw95PaDs8VmXy36YT2HN1GY",
+            "sourceName": "MATVIETNGA",
+            "image": "https://qc-static.coccoc.com/a-images/463/8a4/4638a470fe7c4a0fa998803270a7f8570d74240640b41d600dad94a3f7d5d9a1.jpg",
+            "sourceIcon": "https://hcm.matvietnga.com/wp-content/uploads/2023/05/cropped-cropped-Group-5-32x32.webp",
+            "id": 4
+        },
+        {
+            "title": "Nghi phạm chích điện giết cháu ruột bị bắt",
+            "description": "HẢI PHÒNG - Ông Trần Hữu Côn, nghi phạm chích điện giết cháu ruột do mâu thuẫn đất đai, trong lúc đang tìm cách bắt xe khách bỏ trốn đã bị người dân phát hiện, bắt giữ.",
+            "date": "Chủ nhật, 18/6/2023 - 11:24",
+            "category": "Pháp luật",
+            "link": "https://vnexpress.net/nghi-pham-chich-dien-giet-chau-ruot-bi-bat-4618923.html?utm_source=coccoc&utm_medium=ccnews",
+            "sourceName": "VNEXPRESS",
+            "image": "https://cdn.coccoc.com/news_feed/20230618/15748311219192739827.jpg",
+            "sourceIcon": "https://s1.vnecdn.net/vnexpress/restruct/i/v782/logos/72x72.png",
+            "id": 5
+        },
+        {
+            "title": "Vợ nghi phạm vụ tấn công ở Đăk Lăk: 'Chồng nói không tham gia sẽ bị bắn'",
+            "description": "H Nguil Ayui thấy chồng run rẩy trở về trong đêm, kể bị lôi kéo tham gia tấn công trụ sở UBND xã nếu không \"cả nhà sẽ bị bắn\", chị khuyên ra đầu thú.",
+            "date": "Thứ sáu, 16/6/2023 - 20:00",
+            "category": "Pháp luật",
+            "link": "https://vnexpress.net/vo-nghi-pham-vu-tan-cong-o-dak-lak-chong-noi-khong-tham-gia-se-bi-ban-4618057.html?utm_source=coccoc&utm_medium=ccnews",
+            "sourceName": "VNEXPRESS",
+            "image": "https://cdn.coccoc.com/news_feed/20230616/7465891394702073464.jpg",
+            "sourceIcon": "https://s1.vnecdn.net/vnexpress/restruct/i/v782/logos/72x72.png",
+            "id": 6
         }
     ]
 }
